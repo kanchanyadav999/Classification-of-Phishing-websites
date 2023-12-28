@@ -44,16 +44,16 @@ Load the dataset.
 Data Understanding include basic steps like understanding the rows and columns in the data. Check
 the duplicates and the missing values.
 
-a. Review the column name and their descriptions to understand the information they
+1) Review the column name and their descriptions to understand the information they
 represent.
-b.Take time to explore and understand the dataset.
+2) Take time to explore and understand the dataset.
 
 ## 4.Data Cleaning:
 
 • Check for missing values, inconsistencies in the dataset.
 • Handle missing data appropriately, either through imputation or considering the
 necessity of the variable for analysis.
-• Remove any duplicate records to ensure data accuracy.
+• Removing any duplicate records to ensure data accuracy.
 
 ## 5.Data Visualization, Storytelling & Experimenting with charts: Understand
 the relationships between variables.
