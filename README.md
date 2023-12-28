@@ -4,37 +4,37 @@ The problem is the detection of phishing websites, which are maliciour sites des
 #### Objective:
 Build a model that predicts/classifies whether a website is a Phishing website.
 #### Attributes:
-having_IP_Address
-URL_Length
-Shortening_Service
-having_At_Symbol
-double_slash_redirecting
-Prefix_Suffix
-having_Sub_Domain
-SSLfinal_State
-Domain_registration_length
-Favicon
-port
-HTTPS_token
-Request_URL
-URL_of_Anchor
-Links_in_tags
-SFH
-Submitting_to_email
-Abnormal_URL
-Redirect
-on_mouseover
-RightClick
-popUpWidnow
-Iframe
-age_of_domain
-DNSRecord
-web_traffic
-Page_Rank
-Google_Index
-Links_pointing_to_page
-Statistical_report
-Result
+1) having_IP_Address
+2) URL_Length
+3) Shortening_Service
+4) having_At_Symbol
+5) double_slash_redirecting
+6) Prefix_Suffix
+7) having_Sub_Domain
+8) SSLfinal_State
+9) Domain_registration_length
+10) Favicon
+11) port
+12) HTTPS_token
+13) Request_URL
+14) URL_of_Anchor
+15) Links_in_tags
+16) SFH
+17) Submitting_to_email
+18) Abnormal_URL
+19) Redirect
+20) on_mouseover
+21) RightClick
+22) popUpWidnow
+23) Iframe
+24) age_of_domain
+25) DNSRecord
+25) web_traffic
+27) Page_Rank
+28) Google_Index
+29) Links_pointing_to_page
+30) Statistical_report
+31) Result
 
 ## Dataset loading and loading libraries
 Load of libraries such as pandas, numpy, maplotlib, seaborn, logistic regression, svc, auc_roc_score, random forest, train_test_split, zscore.
