@@ -82,6 +82,13 @@ for training the model and having a sufficient amount for evaluating its perform
 
 ## ML Model Implementation
 Model such as logistic regression, svc, random forest were used. evaluation metric used (e.g., accuracy, precision, recall, F1-score) 
+Logistic regression models the probability of binary response variable and one or more predictor variables. It uses sigmoid function that maps any real valued input to a value between 0 and 1, which is used to transform linear combination of predictor variable into a probability value between 0 and 1.
+
+SVM is a simple supervised machine learning algorithms used for classification and regression task. For classification problem we use SVC. 
+
+Random forest is an example of ensemble learning that uses bagging plus bootstrap method. It trains multiple decision trees with different subsets of the data with replacement. It then combines the results to make a final predicition.
+
+Evaluation techniques such as, Precision, Recall, F1 score, Auc_roc, we used.
 
 ## Conclusion:
 With 94% training accuracy and 94% testing accuracy, Logistic regression and Random forest has proven to be the most efficient model out of the algorithms used in our model including svc. The logistic regression shows a balanced precision, recall, and F1-score, making it a good choice for this classification task. The Random forest achieve slightly higher accuracy.
