@@ -82,6 +82,7 @@ for training the model and having a sufficient amount for evaluating its perform
 
 ## ML Model Implementation
 Model such as logistic regression, svc, random forest were used. evaluation metric used (e.g., accuracy, precision, recall, F1-score) 
+
 Logistic regression models the probability of binary response variable and one or more predictor variables. It uses sigmoid function that maps any real valued input to a value between 0 and 1, which is used to transform linear combination of predictor variable into a probability value between 0 and 1.
 
 SVM is a simple supervised machine learning algorithms used for classification and regression task. For classification problem we use SVC. 
