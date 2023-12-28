@@ -37,7 +37,7 @@ Statistical_report
 Result
 
 ## Dataset loading and loading libraries
-Load of libraries such as pandas, numpy, maplotlib, seaborn, logistic regression, svc, auc_roc_score, random forest.
+Load of libraries such as pandas, numpy, maplotlib, seaborn, logistic regression, svc, auc_roc_score, random forest, train_test_split, zscore.
 Load the dataset.
 
 ## Data Understanding:
